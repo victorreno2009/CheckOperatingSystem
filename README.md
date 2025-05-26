@@ -2,4 +2,8 @@ Checar Sistema Operacional
 
 O código verifica o sistema operacional da máquina, número de bits e a quantidade de núcleos do processador.
 
-![{05A6A6E5-229F-4457-90B1-41AD3FF7DF06}](https://github.com/user-attachments/assets/cf392e81-d8dc-4091-88c0-50a32fb97dbb)
+![{02CB54DE-DE8A-4C24-9628-10CA84EB40D2}](https://github.com/user-attachments/assets/3bb7e035-9d80-4316-b598-44b2bbdfd300)
+
+
+![{17EBCBF0-5CC3-4A5F-9E04-8F88F14CC434}](https://github.com/user-attachments/assets/bc899cb0-26ad-4f5b-95b3-650ca33fab0e)
+
